@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'view-models/controller.dart';
 import 'views/home.dart';
 
 void main() {

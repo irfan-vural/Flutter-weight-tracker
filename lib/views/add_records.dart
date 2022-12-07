@@ -133,7 +133,7 @@ class _AddRecordViewState extends State<AddRecordView> {
             ),
           ),
           TextButton(
-            onPressed: () {},
+            onPressed: () async {},
             child: Text('Save Record'),
             style: TextButton.styleFrom(
               backgroundColor: Colors.black,
